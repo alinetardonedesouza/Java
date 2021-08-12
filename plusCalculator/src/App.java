@@ -11,19 +11,19 @@ public class App {
         float result = 0;
 
 
-        System.out.print("Olá mundo! (｡･∀･)ﾉﾞ")
-        System.out.print("Vamos somar dois números? ")
+        System.out.println("Olá mundo! (｡･∀･)ﾉﾞ")
+        System.out.println("Vamos somar dois números? ")
 
-        System.out.print("Digite o primeiro número: ");
+        System.out.println("Digite o primeiro número: ");
         number1 = input.nextFloat();
 
-        System.out.print("Digite o segundo número: ");
+        System.out.println("Digite o segundo número: ");
         number2 = input.nextFloat();
 
         result = number1 + number2;
 
-        System.out.printf("O resultado da soma é: %d\n", result)
-        System.out.printf("(～￣▽￣)～")
+        System.out.println("O resultado da soma é: %d\n", result)
+        System.out.println("(～￣▽￣)～")
 
     }
 }
