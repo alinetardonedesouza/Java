@@ -1,12 +1,12 @@
 # Java
 
-Olá mundo! ヾ(•ω•`)o
+Olá mundo! (｡･∀･)ﾉﾞ
 
 ## Experiência
 
 A primeira impressão obtida é a de que a linguagem Java se assemelha ao C# em sua estrutura, porém é mais "verbosa" em sua escrita.
-A principal dificuldade foi a montagem da estrtura, das pastas e arquivos para que o programa rodasse,
-porém, foi descoberto que o visual studio code cria isso de forma automática através de extensões.
+A principal dificuldade foi a montagem da estrutura, das pastas e arquivos para que o programa rodasse,
+porém, foi descoberto que o visual studio code cria isso de forma automática.
 
 ## IDE escolhida
 
