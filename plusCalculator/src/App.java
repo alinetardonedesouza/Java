@@ -11,8 +11,8 @@ public class App {
         float result = 0;
 
 
-        System.out.println("Olá mundo! (｡･∀･)ﾉﾞ")
-        System.out.println("Vamos somar dois números? ")
+        System.out.println("Olá mundo! (｡･∀･)ﾉﾞ");
+        System.out.println("Vamos somar dois números? ");
 
         System.out.println("Digite o primeiro número: ");
         number1 = input.nextFloat();
@@ -22,8 +22,8 @@ public class App {
 
         result = number1 + number2;
 
-        System.out.println("O resultado da soma é: %d\n", result)
-        System.out.println("(～￣▽￣)～")
+        System.out.printf("O resultado da soma é: %d\n", result);
+        System.out.println("(～￣▽￣)～");
 
     }
 }
