@@ -1,6 +1,7 @@
 # Java
 
 Olá mundo! (｡･∀･)ﾉﾞ
+Este é meu primeiro programa em Java, um projetinho que realiza a soma de dois números.
 
 ## Experiência
 
